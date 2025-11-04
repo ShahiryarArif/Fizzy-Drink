@@ -1,0 +1,101 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Unhappy"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ea Lorem dolor anim sint reprehenderit velit eiusmod non. Irure aliqua consectetur incididunt esse nulla aliquip nostrud ea laborum Lorem sunt id est aute ut."
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Enim nisi occaecat elit ad in culpa elit in culpa. Qui officia veniam ullamco nostrud laborum. Consequat occaecat cillum anim proident nulla mollit."
+						}
+					}
+				]
+			},
+			"button": {
+				"__TYPE__": "FieldContent",
+				"value": "means",
+				"type": "Text"
+			},
+			"button_link": {
+				"key": "7e1a9c34-9c5f-4895-93a4-ebef0c8db6cd",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com",
+					"text": "hidden"
+				}
+			},
+			"cans_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+					"width": 5616,
+					"height": 3744
+				},
+				"url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+				"width": 5616,
+				"height": 3744,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"alt": "everyone",
+				"credits": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"second_heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Powder"
+						}
+					}
+				]
+			},
+			"second_body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Veniam fugiat cillum magna sunt eiusmod cupidatat incididunt cillum consectetur tempor deserunt exercitation exercitation eu."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
